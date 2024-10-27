@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=org.telegram.desktop
+Exec=bash -c "flatpak run --command=telegram-desktop org.telegram.desktop -startintray"
+X-Flatpak=org.telegram.desktop
